@@ -1,13 +1,5 @@
 # Grid-Theory
-
-Practice about the Basic of CSS Grid
-
-## 1) Main (Card look)
-* HTML tags
-  - `<ul>`, `<li>` : making the form for card look
-      `<img>`,`<div class="item-content"> for Desc.`, 
-      `<div class="actions"> for <a>` 
-      : for 1 card.
+Understand about the Basic of CSS Grid
 
 * CSS Grid properties
  - `display: grid;`
